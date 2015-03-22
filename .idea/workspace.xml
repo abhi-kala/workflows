@@ -57,20 +57,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="67" max-vertical-offset="810">
-              <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.87637365" vertical-offset="82" max-vertical-offset="810">
+              <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/sass/_variables.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08522727" vertical-offset="0" max-vertical-offset="704">
+            <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="330">
               <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
@@ -138,8 +138,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/components/scripts/tagline.js" />
         <option value="$PROJECT_DIR$/components/coffee/tagline.coffee" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/components/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
       </list>
     </option>
   </component>
@@ -508,18 +508,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/components/sass/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="67" max-vertical-offset="810">
-          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="330">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/sass/_variables.scss">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08522727" vertical-offset="0" max-vertical-offset="704">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.87637365" vertical-offset="82" max-vertical-offset="810">
+          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
           <folding />
         </state>
       </provider>
